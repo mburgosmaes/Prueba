@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=help.chm
+Contents file=Contenidos.hhc
+Default topic=index.html
+Display compile progress=No
+Language=0xc0a Español (España, internacional)
+Title=Primero
+
+
+[FILES]
+dos.html
+index.html
+tres.html
+uno.html
+
+[INFOTYPES]
+
